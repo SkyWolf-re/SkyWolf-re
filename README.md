@@ -1,16 +1,18 @@
-## Hi there 👋
+# SkyWolf 🐺
 
-<!--
-**SkyWolf-re/SkyWolf-re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Reverse engineering • Malware labs • Low-level tooling  
 
-Here are some ideas to get you started:
+I’m building this account to showcase tools and infrastructure that I'm developing as an IT student who debutes in this field.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m working on
+- **[REVenge](https://github.com/SkyWolf-re/REVenge)** – a reverse engineering toolkit in Zig/Python.  
+  PE header parsing, analysis helpers, test-driven design, CI… this is the base I’ll keep expanding.  Originally started on another account, now consolidated here  
+- **[Lab-Useful-Scripts](https://github.com/SkyWolf-re/lab-useful-scripts)** – infrastructure scripts for a safe malware lab under construction.  
+  Includes `gh-allow` (nftables toggle for safe egress) and `lab-doctor` (host health & safety checker).  
+
+##  Stack I'm developing
+- Languages: Zig • C • C++ • Java • Python • Bash  
+- Tools: QEMU • Ghidra • Frida • rizin/Cutter
+
+## Contact
+Mail: `contact-baltoor@proton.me`  LinkedIn: `https://t.ly/67J-e`
