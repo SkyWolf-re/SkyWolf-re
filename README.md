@@ -15,4 +15,5 @@ I’m building this account to showcase tools and infrastructure that I'm develo
 - Tools: QEMU • Ghidra • Frida • rizin/Cutter
 
 ## Contact
-Mail: `contact-baltoor@proton.me`  LinkedIn: `https://t.ly/67J-e`
+[Mail](contact-baltoor@proton.me)
+[LinkedIn](https://t.ly/67J-e)
