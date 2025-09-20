@@ -9,7 +9,9 @@ I’m building this account to showcase tools and infrastructure that I'm develo
   PE header parsing, analysis helpers, test-driven design, CI… this is the base I’ll keep expanding.  
   Originally started on another account, now consolidated here  
 - **[Lab-Useful-Scripts](https://github.com/SkyWolf-re/lab-useful-scripts)** – infrastructure scripts for a safe malware lab under construction.  
-  Includes `gh-allow` (nftables toggle for safe egress) and `lab-doctor` (host health & safety checker).  
+  Includes `gh-allow` (nftables toggle for safe egress) and `lab-doctor` (host health & safety checker).
+- **[RE cheatsheets](https://github.com/SkyWolf-re/RE-cheatsheets) - a collection of useful notes related to reverse engineering.
+  Includes hex to code translations and YARA rules templates
 
 ##  Stack I'm developing
 - Languages: Zig • C • C++ • Java • Python • Bash  
