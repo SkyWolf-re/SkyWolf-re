@@ -12,7 +12,7 @@ I’m building this account to showcase tools and infrastructure that I'm develo
   Includes `gh-allow` (nftables toggle for safe egress) and `lab-doctor` (host health & safety checker).  
 - **[RE cheatsheets](https://github.com/SkyWolf-re/RE-cheatsheets)** - a collection of useful notes related to reverse engineering.  
   Includes hex to code translations and YARA rules templates  
-- **[stringer](https://github.com/SkyWolf-re/stringer)** - ASCII/UTF8-16 strings detector.
+- **[stringer](https://github.com/SkyWolf-re/stringer)** - ASCII/UTF8-16 strings extractor.
 
 ##  Stack I'm developing
 - Languages: Zig • C • C++ • Java • Python • Bash  
