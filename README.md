@@ -5,14 +5,12 @@ Reverse engineering • Malware labs • Low-level tooling
 I’m building this account to showcase tools and infrastructure that I'm developing as an IT student who debutes in this field.  
 
 ## What I’m working on
-- **[REVenge](https://github.com/SkyWolf-re/REVenge)** – a reverse engineering toolkit in Zig/Python.  
-  PE header parsing, analysis helpers, test-driven design, CI… this is the base I’ll keep expanding.  
-  Originally started on another account, now consolidated here  
+- **[REVcore](https://github.com/SkyWolf-re/REVcore)** – orchestrator and customizable toolkit for REVenge ecosystem  
 - **[Lab-Useful-Scripts](https://github.com/SkyWolf-re/lab-useful-scripts)** – infrastructure scripts for a safe malware lab under construction.  
   Includes `gh-allow` (nftables toggle for safe egress) and `lab-doctor` (host health & safety checker).  
 - **[RE cheatsheets](https://github.com/SkyWolf-re/RE-cheatsheets)** - a collection of useful notes related to reverse engineering.  
   Includes hex to code translations and YARA rules templates  
-- **[stringer](https://github.com/SkyWolf-re/stringer)** - ASCII/UTF8-16 strings extractor.
+- **[stringer](https://github.com/SkyWolf-re/stringer)** - ASCII/UTF8-16 strings extractor. Part of REVenge ecosystem's native tools  
 
 ##  Stack I'm developing
 - Languages: Zig • C • C++ • Java • Python • Bash  
